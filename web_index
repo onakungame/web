@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- App title -->
+    <title>Ripcons™ ➝  </title>
+
+    <!-- Link css file -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    
+    <!-- Navigation bar -->
+    <header class="header">
+        <!-- Logo -->
+        <a href="index.html" class="logo">Ripcons™ ➝ </a>
+        <!-- Hamburger icon -->
+        <input class="side-menu" type="checkbox" id="side-menu"/>
+        <label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
+        <!-- Menu -->
+        <nav class="nav">
+            <ul class="menu">
+                <li><a href="work.html">Work</a></li>
+                <li><a href="about_us.html">About</a> </li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="contact_us.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main content -->
+    <div class="top_margin"></div>
+    <img src="images/01.jpg" alt="Nature" class="image_responsive">
+
+     <main>         
+     
+  <div class="flex-container">
+  <div class="flex-item-left"><h1 class="big_title_01">A Contemporary Graphic Design Studio. 
+  <br><br>Transforms Brands and Businesses with Simple Remarkable Ideas.</h1>  
+  </div>
+  <div class="flex-item-right"><p class="paragraf_01">This text is styled with some of the text formatting properties. The heading uses the text-align, text-transform, and color properties.The paragraph is indented, aligned, and the space between characters is specified.
+  <p>
+  </div>
+</div>
+
+ <div class="block_line"></div>
+
+<h1 class="big_title_03">➝ Latest Work</h1>
+ 
+    <div class="responsive">
+<div class="gallery">
+  <a target="_blank" href="images/posteriseng.jpg">
+    <img src="images/posteriseng.jpg" alt="Cinque Terre" width="100%" height="100%">
+  </a>
+  <div class="desc">➝ Project Name</div>
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
+  <a target="_blank" href="img_5terre.jpg">
+    <img src="images/posteriseng.jpg" alt="Cinque Terre" width="100%" height="100%">
+  </a>
+  <div class="desc">➝ Project Name</div>
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
+  <a target="_blank" href="img_5terre.jpg">
+    <img src="images/posteriseng.jpg" alt="Cinque Terre" width="100%" height="100%">
+  </a>
+  <div class="desc">➝ Project Name</div>
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
+  <a target="_blank" href="img_5terre.jpg">
+    <img src="images/posteriseng.jpg" alt="Cinque Terre" width="100%" height="100%">
+  </a>
+  <div class="desc">➝ Project Name</div>
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
+  <a target="_blank" href="img_5terre.jpg">
+    <img src="images/posteriseng.jpg" alt="Cinque Terre" width="100%" height="100%">
+  </a>
+  <div class="desc">➝ Project Name</div>
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
+  <a target="_blank" href="img_5terre.jpg">
+    <img src="images/posteriseng.jpg" alt="Cinque Terre" width="100%" height="100%"> </a>
+  <div class="desc">➝ Project Name</div>
+</div>
+</div>
+
+
+
+<h1 class="big_title_03">➝ Clients</h1>
+<div class="responsive">
+<div class="gallery">
+  <a target="_blank" href="bulet.jpg">
+    <img src="images/bulet.jpg" alt="Cinque Terre" width="100%" height="100%"> </a>
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
+  <a target="_blank" href="bulet.jpg">
+    <img src="images/bulet.jpg" alt="Cinque Terre" width="100%" height="100%"> </a>
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
+  <a target="_blank" href="bulet.jpg">
+    <img src="images/bulet.jpg" alt="Cinque Terre" width="100%" height="100%"> </a>
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
+  <a target="_blank" href="bulet.jpg">
+    <img src="images/bulet.jpg" alt="Cinque Terre" width="100%" height="100%"> </a>
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
+  <a target="_blank" href="bulet.jpg">
+    <img src="images/bulet.jpg" alt="Cinque Terre" width="100%" height="100%"> </a>
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
+  <a target="_blank" href="bulet.jpg">
+    <img src="images/bulet.jpg" alt="Cinque Terre" width="100%" height="100%"> </a>
+</div>
+</div>
+
+
+
+ 
+ <!-- Footer -->
+<div class="row">
+  <div class="column">
+   <div class="block_line"></div>
+    <p>&#169; Ripcons™ ➝ 2023</p>
+  </div>
+  <div class="column" >
+   <div class="block_line"></div>
+  <p>Kalibata City <br> Tower Akasia  <br> Unit 12BF <br></p>
+  </div>
+  <div class="column">
+   <div class="block_line"></div>
+    <p>
+                <a href="#" class="footer" >➝ Instagram</a><br>
+                <a href="#" class="footer" >➝ Behance</a><br>
+                <a href="#" class="footer" >➝ Tokopedia</a><br>
+  </p>
+<!-- End of Footer -->
+
+</main>
+</body>
+
+
+</html>
