@@ -33,34 +33,28 @@
       </ul>
     </nav>
   </header>
-
+  <!-- ======= Hero Section ======= -->
   <div class="carousel">
     <div class="carousel-inner">
       <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden=""
         checked="checked">
       <div class="carousel-item">
-        <img src="images/Quran2.jpg" style="width: 1920px; height: 600px;">
+        <a href="#" class="carousel-img"><img src="images/Quran2.jpg" style="width: 1920px; height: 600px;" class="slide"></a>
       </div>
       <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
       <div class="carousel-item">
-        <img src="images/medina2.jpg" style="width: 1920px; height: 600px;">
+        <a href="#" class="carousel-img"><img src="images/medina2.jpg" style="width: 1920px; height: 600px;"></a>
       </div>
       <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
       <div class="carousel-item">
-        <img src="images/hajj2.jpg" style="width: 1920px; height: 600px;">
+        <a href="#" class="carousel-img"><imgsrc="images/hajj2.jpg" style="width: 1920px; height: 600px;"></a>
       </div>
-      <label for="carousel-3" class="carousel-control prev control-1"
-        style="cursor: url(‘images/prev-cursor.png’), auto;"></label>
-      <label for="carousel-2" class="carousel-control next control-1"
-        style="cursor: url(‘images/next-cursor.png’), auto;"></label>
-      <label for="carousel-1" class="carousel-control prev control-2"
-        style="cursor: url(‘images/prev-cursor.png’), auto;"></label>
-      <label for="carousel-3" class="carousel-control next control-2"
-        style="cursor: url(‘images/next-cursor.png’), auto;"></label>
-      <label for="carousel-2" class="carousel-control prev control-3"
-        style="cursor: url(‘images/prev-cursor.png’), auto;"></label>
-      <label for="carousel-1" class="carousel-control next control-3"
-        style="cursor: url(‘images/next-cursor.png’), auto;"></label>
+      <label for="carousel-3" class="carousel-control prev control-1">‹</label>
+      <label for="carousel-2" class="carousel-control next control-1">›</label>
+      <label for="carousel-1" class="carousel-control prev control-2">‹</label>
+      <label for="carousel-3" class="carousel-control next control-2">›</label>
+      <label for="carousel-2" class="carousel-control prev control-3">‹</label>
+      <label for="carousel-1" class="carousel-control next control-3">›</label>
       <ol class="carousel-indicators">
         <li>
           <label for="carousel-1" class="carousel-bullet">•</label>
@@ -74,7 +68,7 @@
       </ol>
     </div>
   </div>
-
+  <!-- End Hero -->
 
   <!-- Main content -->
   <div class="top_margin"></div>
@@ -96,8 +90,36 @@
     </div>
 
     <div class="block_line"></div>
+    <section id="product-list">
+      <div class="product-container">
+        <h1 class="product-title">➝ Latest Work</h1>
+        <ul>
+          <li><img src="images/posteriseng.jpg" class="product-image">
+            <a href="#" class="btn-buy">Buy</a>
+          </li>
+          <li><img src="images/posteriseng.jpg" class="product-image">
+            <a href="#" class="btn-buy">Buy</a>
+          </li>
+          <li><img src="images/posteriseng.jpg" class="product-image">
+            <a href="#" class="btn-buy">Buy</a>
+          </li>
+        </ul>
+        <ul>
+          <li><img src="images/posteriseng.jpg" class="product-image">
+            <a href="#" class="btn-buy">Buy</a>
+          </li>
+          <li><img src="images/posteriseng.jpg" class="product-image">
+            <a href="#" class="btn-buy">Buy</a>
+          </li>
+          <li><img src="images/posteriseng.jpg" class="product-image">
+            <a href="#" class="btn-buy">Buy</a>
+          </li>
+        </ul>
 
-    <h1 class="big_title_03">➝ Latest Work</h1>
+      </div>
+    </section>
+
+    <!-- <h1 class="big_title_03">➝ Latest Work</h1>
 
     <div class="responsive">
       <div class="gallery">
@@ -150,13 +172,44 @@
           <img src="images/posteriseng.jpg" alt="Cinque Terre" width="100%" height="100%"> </a>
         <div class="desc">➝ Project Name</div>
       </div>
-    </div>
+    </div> -->
+    <div class="block_line"></div>
 
 
 
-    <h1 class="big_title_03">➝ Clients</h1>
-    <div class="responsive">
-      <div class="gallery">
+    <section id="logo-list">
+      <div class="logo-container">
+        <h1 class="client-title">➝ Clients</h1>
+        <ul>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+        </ul>
+        <ul>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+        </ul>
+        <ul>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+          <li><img src="images/bulet.jpg" class="logo-client"></li>
+        </ul>
+      </div>
+    </section>
+
+
+
+    <!-- <div class="gallery">
         <a target="_blank" href="bulet.jpg">
           <img src="images/CircleJ-Logo.png" alt="Cinque Terre" width="100%" height="100%"> </a>
       </div>
@@ -194,7 +247,7 @@
       <div class="gallery">
         <a target="_blank" href="bulet.jpg">
           <img src="images/Nike-Logo.png" alt="Cinque Terre" width="100%" height="100%"> </a>
-      </div>
+      </div> -->
     </div>
 
 
