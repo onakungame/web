@@ -1,0 +1,24 @@
+            <div class="row text-center m-5">
+              <div class="separator col-sm border-end border-bottom">
+                <img src="assets/img/icon/umrah.png" alt="" class="img-fluid justify-content-center my-4" width="100" height="100">
+                <h4 class="why-description">Tour Travel Umroh Berpengalaman</h4>
+              </div>
+              <div class="col-sm border-end border-bottom">
+                <img src="assets/img/icon/contract.png" alt="" class="img-fluid justify-content-center my-4" width="100" height="100">
+                <h4 class="why-description">SK. KEMENAG NO. U 425 TAHUN 2022</h4>
+              </div>
+              <div class="col-sm border-bottom">
+                <img src="assets/img/icon/5-stars.png" alt="" class="img-fluid justify-content-center my-4" width="100" height="100">
+                <h4 class="why-description">Full Fasilitas Tanpa Biaya Tersembunyi</h4>
+              </div>
+            <div class="w-100"></div>
+              <div class="separator col-6 border-end">
+                <img src="assets/img/icon/route.png" alt="" class="img-fluid justify-content-center my-4" width="100" height="100">
+                <h4 class="why-description">Pesawat Tanpa Transit</h4>
+              </div>
+              <div class="col-6">
+                <img src="assets/img/icon/quality.png" alt="" class="img-fluid justify-content-center my-4" width="100" height="100">
+                <h4 class="why-description">Berkualitas</h4>
+              </div>
+            </div>
+            
